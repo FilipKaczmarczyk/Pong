@@ -1,0 +1,4 @@
+D:\Moje\STUDIA\VII semestr\Programowanie warstwy wizualnej gry\pong\ogl_glsl_template\x64\Debug\src\Debug\ogl_glsl_template.exe
+D:\Moje\STUDIA\VII semestr\Programowanie warstwy wizualnej gry\pong\ogl_glsl_template\x64\Debug\src\Debug\ogl_glsl_template.pdb
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\Debug\ogl_glsl_template.exe
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\Debug\ogl_glsl_template.pdb

@@ -1,0 +1,51 @@
+﻿  main.cpp
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(80,23): error C2079: "vao" używa niezdefiniowanego class "std::array<GLuint,2>"
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(81,23): error C2079: "buffers" używa niezdefiniowanego class "std::array<GLuint,6>"
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(82,23): error C2079: "ebos" używa niezdefiniowanego class "std::array<GLuint,2>"
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(148,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(237,55): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(238,55): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(241,45): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(242,45): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(248,42): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(248,43): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(252,42): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(252,43): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(354,59): error C2198: "PFNGLDELETEBUFFERSPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(355,56): error C2198: "PFNGLDELETEVERTEXARRAYSPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(356,56): error C2198: "PFNGLDELETEVERTEXARRAYSPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(398,53): error C2198: "PFNGLGENVERTEXARRAYSPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(399,56): error C2198: "PFNGLGENBUFFERSPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(400,48): error C2198: "PFNGLGENBUFFERSPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(406,25): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(409,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(409,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(411,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(411,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(416,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(416,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(418,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(418,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(424,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(424,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(426,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(426,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(432,46): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(432,47): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(442,25): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(445,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(445,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(447,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(447,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(452,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(452,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(454,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(454,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(460,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(460,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(462,41): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(462,42): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(468,46): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(468,47): error C2198: "PFNGLBINDBUFFERPROC": za mało argumentów dla wywołania
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(482,25): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\HappyArroW\Desktop\Filip Kaczmarczyk - Programowanie warstwy wizualnej gry\src\main.cpp(486,25): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
